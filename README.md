@@ -1,2 +1,11 @@
 # huggigface-demo-code
-COde and notes from huggingface library
+
+```sh
+source venv/bin/activate
+pip install transformers[torch]
+```
+
+
+## Notes
+- deep learning: pytorch
+- 
